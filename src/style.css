@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color: #81a69b;
+  background-color: #f2f5ff;
   background-image: url(http://static.frontendmasters.com/resources/2019-05-02-complete-intro-react-v5/image-background.png);
   margin: 0;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
@@ -16,7 +16,7 @@ body {
 }
 
 .search-params form {
-  background-color: #d9c148;
+  background-color: #e84855;
   width: 360px;
   margin: 0px 25px 0px 0px;
   padding: 35px 15px 15px 15px;
@@ -25,12 +25,16 @@ body {
 }
 
 .search {
-  background-color: #d9c148;
+  background-color: #e84855;
   width: 715px;
   padding: 15px;
   border-radius: 9px;
   float: left;
   margin-bottom: 25px;
+  color: #f2f5ff;
+}
+.search h1 {
+  color: #f2f5ff;
 }
 
 .details {
@@ -49,6 +53,7 @@ body {
   overflow: hidden;
   margin: 25px 0;
   border-bottom: #bf9b2f 1px solid;
+  color: #f2f5ff;
 }
 
 .pet img {
@@ -172,6 +177,7 @@ header {
 .search-params label {
   display: block;
   width: 60px;
+  color: #f2f5ff;
 }
 
 .search-params input,
